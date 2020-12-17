@@ -37,7 +37,7 @@ Copyright (c) [2020] [Austyn Whaley]
 
 ### Usage for this application:
 
-#### TO quickly and efficently make a readme file for users application
+#### To quickly and efficently make a readme file for users application
 
 ---
 

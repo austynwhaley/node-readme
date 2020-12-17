@@ -42,8 +42,7 @@ This application would be used to quickly and efficently make a readme file for 
 
 ## Testing
 
-#### To test the application just run 'node index.js' in your terminal. 
-#### Also visit the link in the table of contents to see it in use.
+To test the application just run 'node index.js' in your terminal. You can also visit the link in the table of contents to see it in use.
 
 ---
 

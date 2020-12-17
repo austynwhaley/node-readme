@@ -1,10 +1,8 @@
-# Node Readme
+# Node Readme Generator
 
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-red.svg)](http://www.gnu.org/licenses/agpl-3.0) 
 
 Copyright (c) [2020] [Austyn Whaley]
 

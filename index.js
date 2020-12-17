@@ -30,7 +30,7 @@ inquirer.prompt([
   {
     type: 'input',
     name: 'usage',
-    message: 'Provide some examples and instructions for use.'
+    message: 'Describe the use of this application.'
   },
   {
     type: 'input',
@@ -88,7 +88,6 @@ Copyright (c) [2020] [${answers.authors}]
 - [Testing](#Testing)
 - [Contribution](#Contribution)
 - [Questions](#Questions)
-- [License](#license)
     
 
 ---
@@ -126,7 +125,7 @@ Copyright (c) [2020] [${answers.authors}]
 
 ## Contribution
 
-###The guidelines for contributon to this application are as follows:
+### The guidelines for contributon to this application are as follows:
 
 #### ${answers.contribution}
 

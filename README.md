@@ -8,13 +8,14 @@ Copyright (c) [2020] [Austyn Whaley]
 
 ---
 
-### Table of Contents
+![Screenshot](./assets/images/nodeSS.png)
 
+### Table of Contents
+- [Link to Video](https://drive.google.com/file/d/1lHDvzhaMNLRQKeV-6jWffOngx7F5sYqZ/view)
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Testing](#Testing)
-- [Contribution](#Contribution)
 - [Questions](#Questions)
 
 ---
@@ -22,31 +23,30 @@ Copyright (c) [2020] [Austyn Whaley]
 
 ## Description
 
-This is an application that takes user input and collects the data and generates a 'README.md' file
+This is an application that uses the Inquirer package and takes user input, then generates a MD file for the user and their application.
 
 ---
 
 ## Installation
 
-here is some information on how to install my application
+To use this application be sure to input ion terminal 'npm install inquirer' in the terminal.
 
 ---
 
 ## Usage
+
+This application would be used to quickly and efficently make a readme file for user and save time when develpoing their application
 
 
 ---
 
 ## Testing
 
+#### To test the application just run 'node index.js' in your terminal. 
+#### Also visit the link in the table of contents to see it in use.
 
 ---
 
-## Contribution
-
-
-
----
 
 ## Questions
 
